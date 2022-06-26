@@ -1,0 +1,3 @@
+certbot/conf/live/*
+certbot/conf/renewal/*
+certbot/conf/csr/*
